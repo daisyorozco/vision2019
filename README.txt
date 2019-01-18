@@ -1,5 +1,5 @@
 =======================
-Building locally on rPi
+Building locally on rPi okay
 =======================
 
 1) Run "./gradlew build"
